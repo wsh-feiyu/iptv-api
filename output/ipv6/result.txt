@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-14 06:59:14,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-14 18:51:21,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -21,6 +21,7 @@ CCTV-2,https://t.freetv.fun/live/cctv2-cai-jing-3.php
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+CCTV-2,https://migu.188766.xyz/?migutoken=29cd9f221e5ebe05c4b0c6991bfc91a3&id=CCTV2&type=yy
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,https://migu.188766.xyz/?migutoken=fe7e4d3a88aebf751835112361fe2543&id=CCTV3&type=yy
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=854cdcf92250065344321ef07ef1906529ef292a1eacd5d76ef5b23701562b8c40661ebb4949d84421e5d62c1ad06bde540bd9525c23556d30bbefb329c658beb16b50162798f33f7dfc043537&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
