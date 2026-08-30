@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-30 08:28:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-30 23:24:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -209,6 +209,7 @@ CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u
 CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV-3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
 CETV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=mzxn4l
+CETV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8
 CETV-4,https://migu.188766.xyz/?migutoken=0dc08bbbe9c79f35d60171478e6e5169&id=CETV4&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&type=yy
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
